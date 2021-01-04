@@ -127,8 +127,13 @@ a:hover {
 footer {
     margin-top: 5em;
     padding-top: 2em;
+    width: 100%;
+}
+
+.footer{
     background-color: rgb(0 111 5 / 20%);
     padding-bottom: 4em;
+    padding-top: 1.5em;
 }
 
 footer h1 {
@@ -173,6 +178,21 @@ footer i {
     top: 0;
 }
 
+.dev{
+    background-color: #73530ba6;
+    padding-bottom: .5em;
+    text-align: center;
+}
+
+.dev h5{
+    padding-top: 1em;
+    font-family: 'Yellowtail', cursive;
+}
+
+.dev p{
+    font-family: "PT Sans", sans-serif;
+}
+
 
 
 @media (max-height: 810px) {
@@ -193,6 +213,7 @@ footer i {
         max-height: 13vh;
     
     }
+
 }
 
 @media (min-width: 400px) {
