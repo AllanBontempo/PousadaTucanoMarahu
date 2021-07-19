@@ -4,7 +4,7 @@
 
 # PousadaTucanoMarahu
 
-Project for the Pousada Tucano do Marahu inn located in Belém do Pará - Brazil.
+Project for the Pousada Tucano do Marahu located in Belém do Pará - Brazil.
 
 It was a simple site, where a portfolio of photos of the inn, its location and the services they offer was requested.
 
